@@ -1,0 +1,1 @@
+.form{display:flex;flex-direction:column;gap:4px;align-items:stretch;width:320px}.form>label{display:flex;flex-direction:column;margin:0 2px}.form input[name=delay]{line-height:1.8;padding:2px 4px}.form>fieldset{display:flex;justify-content:space-evenly}.form>button{margin:0 2px}.toast{border-radius:12px}.toast>.iziToast-body{margin-right:120px}
